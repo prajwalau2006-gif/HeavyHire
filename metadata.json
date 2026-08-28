@@ -1,0 +1,6 @@
+{
+  "name": "HeavyHire AI",
+  "description": "AI-powered marketplace for heavy construction and agricultural equipment with voice booking, live GPS tracking, smart pricing, dynamic fleet management, and Kotlin Jetpack Compose MVVM architecture.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
